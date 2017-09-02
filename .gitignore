@@ -173,3 +173,4 @@ StyleCop.Cache
 
 # NUnit console output
 TestResult.xml
+.vscode/
